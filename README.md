@@ -4,7 +4,7 @@
 
 Brazil
 
-Sistamas de Informação 👨‍🎓 - PUC MINAS / 7 Periodo
+Sistemas de Informação 👨‍🎓 - PUC MINAS 
 
 Interessado por tecnologia, desenvolvimento web e segurança da informação. Atualmente estou a procura para ser estagiario em desenvolvimento de software, buscando criar soluções eficientes, escaláveis e com código limpo. Tenho interesse em arquitetura de sistemas, performance, back-end e boas práticas de desenvolvimento.
 
