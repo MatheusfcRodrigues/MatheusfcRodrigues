@@ -4,6 +4,8 @@
 
 Brazil
 
+Sistamas de Informação 👨‍🎓 - PUC MINAS / 7 Periodo
+
 Interessado por tecnologia, desenvolvimento web e segurança da informação. Atualmente estou a procura para ser estagiario em desenvolvimento de software, buscando criar soluções eficientes, escaláveis e com código limpo. Tenho interesse em arquitetura de sistemas, performance, back-end e boas práticas de desenvolvimento.
 
 Sempre aprendendo novas tecnologias e aprimorando habilidades em programação, SaaS e inovação digital. Também gosto de compartilhar conhecimento sobre desenvolvimento de software e tecnologia..
@@ -63,10 +65,11 @@ Sempre aprendendo novas tecnologias e aprimorando habilidades em programação, 
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MatheusfcRodrigues&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusfcRodrigues&layout=compact&theme=tokyonight" />
-</p>
+![](https://streak-stats.demolab.com?user=MatheusfcRodrigues&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusfcRodrigues&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatheusfcRodrigues&theme=tokyonight)
 
 ---
 
