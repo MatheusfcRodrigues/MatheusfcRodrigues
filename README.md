@@ -23,7 +23,7 @@ Sempre aprendendo novas tecnologias e aprimorando habilidades em programação, 
     <img src="https://img.shields.io/badge/Instagram-@matheuscoelhorz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
    <a href="matheuscoelhor13@gmail.com">
-    <img src="https://img.shields.io/badge/Email-seuemail@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-matheuscoelhor13@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
